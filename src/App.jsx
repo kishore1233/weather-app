@@ -4,7 +4,7 @@ import Auth from './components/Auth';
 import Weather from './components/Weather';
 
 // Replace with your Google Client ID
-const GOOGLE_CLIENT_ID = "668575591842-3bvg6v1ssiu42bcsl3ja5dscrlr3qcet.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "171802540189-ghj57rrulhhklqlsji56crkho6ntt87k.apps.googleusercontent.com";
 
 function App() {
   const [user, setUser] = useState(null);
